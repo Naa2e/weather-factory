@@ -1,0 +1,17 @@
+body{
+  text-align: center;
+}
+
+#weather{
+  width: 375px;
+  height: 350px;
+  border: 2px solid;
+}
+
+.weatherPhoto{
+  width: 100px;
+  height: 100px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: 50% 50%;
+}
